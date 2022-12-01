@@ -1,0 +1,15 @@
+name: dnds
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - _openmp_mutex=5.1=1_gnu
+  - libgcc-ng=11.2.0=h1234567_1
+  - libgomp=11.2.0=h1234567_1
+  - libnsl=2.0.0=h5eee18b_0
+  - mafft=7.505=hec16e2b_0
+  - pal2nal=14.1=pl5321hdfd78af_3
+  - paml=4.9=hec16e2b_7
+  - perl=5.32.1=0_h5eee18b_perl5
+  - perl-getopt-long=2.54=pl5321hdfd78af_0
